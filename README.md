@@ -18,11 +18,36 @@ The website features fully functional cart with credit card authentification and
 - [JWT Decode](https://github.com/auth0/jwt-decode) 
 
 ## Mockup:
-![Login page](https://imgshare.io/images/2020/04/03/loginMockup.png)
 
-![Products page](https://imgshare.io/images/2020/04/03/productsPageMockup.png)   
+### Login Page
+<img src="https://imgshare.io/images/2020/04/03/loginMockup.png" width="350px"/>
 
-![Product Detail page](https://imgshare.io/images/2020/04/03/detailMockup.png) 
+
+
+### Products Page
+<img src="https://imgshare.io/images/2020/04/03/productsPageMockup.png" width="350px"/>
+
+
+
+### Product Detail Page
+<img src="https://imgshare.io/images/2020/04/03/detailMockup.png" width="350px"/>
+
+
+
+## App Showcase
+
+## Products Page
+![Alt Text](https://gph.is/g/ZPmKb5p)
+<img src="" width="450px"/>
+
+## Cart
+<img src="https://media.giphy.com/media/YOdVUMwxhTEqM05URE/giphy.gif" width="450px"/>
+
+## Order payment
+<img src="https://gph.is/g/4zqjPYv" width="450px"/>
+
+
+
 
 
 
