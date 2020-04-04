@@ -26,7 +26,7 @@ The website features fully functional cart with credit card authentification and
 <img src="https://imgshare.io/images/2020/04/03/productsPageMockup.png" height="450px" width="450px"/>
 
 ### Product Detail Page 
-<img src="https://imgshare.io/images/2020/04/03/detailMockup.png" width="450px" 450px="450px"/>
+<img src="https://imgshare.io/images/2020/04/03/detailMockup.png" width="450px" height="450px"/>
 
 
 
