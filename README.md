@@ -20,31 +20,26 @@ The website features fully functional cart with credit card authentification and
 ## Mockup:
 
 ### Login Page
-<img src="https://imgshare.io/images/2020/04/03/loginMockup.png" width="350px"/>
-
-
+<img src="https://imgshare.io/images/2020/04/03/loginMockup.png" width="350px" height="450px"/>
 
 ### Products Page
-<img src="https://imgshare.io/images/2020/04/03/productsPageMockup.png" width="350px"/>
+<img src="https://imgshare.io/images/2020/04/03/productsPageMockup.png" height="450px" width="350px"/>
 
-
-
-### Product Detail Page
-<img src="https://imgshare.io/images/2020/04/03/detailMockup.png" width="350px"/>
+### Product Detail Page 
+<img src="https://imgshare.io/images/2020/04/03/detailMockup.png" width="350px" height="450px"/>
 
 
 
 ## App Showcase
 
 ## Products Page
-![Alt Text](https://gph.is/g/ZPmKb5p)
-<img src="" width="450px"/>
+<img src="https://media.giphy.com/media/WUxzJc2axR74BU80UY/giphy.gif"  width="800px" height="700px"/>
 
 ## Cart
-<img src="https://media.giphy.com/media/YOdVUMwxhTEqM05URE/giphy.gif" width="450px"/>
+<img src="https://media.giphy.com/media/iILsV9hUa4iJmUuzZi/giphy.gif"  width="800px" height="700px"/>
 
-## Order payment
-<img src="https://gph.is/g/4zqjPYv" width="450px"/>
+## Order Payment
+<img src="https://media.giphy.com/media/YOdVUMwxhTEqM05URE/giphy.gif" width="800px" height="700px"/>
 
 
 
