@@ -5,13 +5,17 @@ Gamefront -  is a webshop that specifies in selling video games,and gaming acces
 
 The website features fully functional cart with credit card authentification and e-mail confirmation.
 
+# Backend for the client
+ [Backend](https://github.com/seaofbytes/gamefront_server)
+
 
 ## The frontend for the webshop is built with: 
 - [React](https://reactjs.org/)
 - [React-Redux](https://react-redux.js.org/)
 - [Redux - Thunk](https://github.com/reduxjs/redux-thunk)
 - [Superagent](https://www.npmjs.com/package/superagent)
-- [React - Stripe](https://stripe.com/docs/stripe-js/react)
+- [React - Stripe](https://stripe.com/docs/stripe-js/react)   
+- [JWT Decode](https://github.com/auth0/jwt-decode) 
 
 ## Mockup:
 ![Login page](https://imgshare.io/images/2020/04/03/loginMockup.png)
@@ -19,6 +23,7 @@ The website features fully functional cart with credit card authentification and
 ![Products page](https://imgshare.io/images/2020/04/03/productsPageMockup.png)   
 
 ![Product Detail page](https://imgshare.io/images/2020/04/03/detailMockup.png) 
+
 
 
 User stories :
