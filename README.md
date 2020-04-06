@@ -1,6 +1,13 @@
 
 # Frontend client for the game webshop
 
+## Installation
+- clone the project : git clone https://github.com/seaofbytes/gamefront_client
+- install dependencies with npm / yarn install
+- change the config file to match the server
+- run sequelize db:migrate to create migrations
+- run sequelize db:seed:all to seed the database
+
 Gamefront -  is a webshop that specifies in selling video games,and gaming accessories. Users can visit individual game's detail page where they can see all the relevant game info ( name, price, description, reviews, ratings, images etc..), or they can filter the games and accessories by price, name, release date, popularity, ratings and top sellers. 
 
 The website features fully functional cart with credit card authentification and e-mail confirmation.
