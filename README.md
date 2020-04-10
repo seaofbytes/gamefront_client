@@ -21,6 +21,7 @@ The website features fully functional cart with credit card authentification and
 - [Superagent](https://www.npmjs.com/package/superagent)
 - [React - Stripe](https://stripe.com/docs/stripe-js/react)   
 - [JWT Decode](https://github.com/auth0/jwt-decode) 
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Mockup:
 
