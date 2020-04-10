@@ -23,17 +23,6 @@ The website features fully functional cart with credit card authentification and
 - [JWT Decode](https://github.com/auth0/jwt-decode) 
 - [Bootstrap](https://getbootstrap.com/)
 
-## Mockup:
-
-### Login Page
-<img src="https://imgshare.io/images/2020/04/03/loginMockup.png" width="450px" height="450px"/>
-
-### Products Page
-<img src="https://imgshare.io/images/2020/04/03/productsPageMockup.png" height="450px" width="450px"/>
-
-### Product Detail Page 
-<img src="https://imgshare.io/images/2020/04/03/detailMockup.png" width="450px" height="450px"/>
-
 
 
 ## :tv: App Showcase
@@ -48,6 +37,17 @@ The website features fully functional cart with credit card authentification and
 <img src="https://media.giphy.com/media/YOdVUMwxhTEqM05URE/giphy.gif" width="800px" height="570px"/>
 
 
+
+## Mockup:
+
+### Login Page
+<img src="https://imgshare.io/images/2020/04/03/loginMockup.png" width="450px" height="450px"/>
+
+### Products Page
+<img src="https://imgshare.io/images/2020/04/03/productsPageMockup.png" height="450px" width="450px"/>
+
+### Product Detail Page 
+<img src="https://imgshare.io/images/2020/04/03/detailMockup.png" width="450px" height="450px"/>
 
 
 
