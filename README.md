@@ -1,7 +1,7 @@
 
-# Frontend client for the game webshop
+# Frontend client for the :credit_card: game webshop :credit_card:
 
-## Installation
+##  :computer: Installation :computer:
 - clone the project : git clone https://github.com/seaofbytes/gamefront_client
 - install dependencies with npm / yarn install
 - npm / yarn start
@@ -10,11 +10,11 @@ Gamefront -  is a webshop that specifies in selling video games,and gaming acces
 
 The website features fully functional cart with credit card authentification and e-mail confirmation.
 
-# Backend for the client
+#  :8ball: Backend for the client :8ball:
  [Backend](https://github.com/seaofbytes/gamefront_server)
 
 
-## The frontend for the webshop is built with: 
+##  :wrench: The frontend for the webshop is built with: :wrench:
 - [React](https://reactjs.org/)
 - [React-Redux](https://react-redux.js.org/)
 - [Redux - Thunk](https://github.com/reduxjs/redux-thunk)
