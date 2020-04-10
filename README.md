@@ -68,4 +68,3 @@ Admin stories:
 - As a admin I want to be able to remove add or alter all items and content on the webshop from a separate page
 
 
-* work in progress *
