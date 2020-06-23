@@ -11,7 +11,7 @@ Gamefront -  is a webshop that specifies in selling video games,and gaming acces
 The website features fully functional cart with credit card authentification and e-mail confirmation.
 
 # Backend for the client 
- [Backend](https://github.com/seaofbytes/gamefront_server)
+ [Backend](https://github.com/seaofbytes/gamefront_server) 
 
 
 ##  :wrench: The frontend for the webshop is built with:
